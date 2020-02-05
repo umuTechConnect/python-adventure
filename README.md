@@ -24,26 +24,18 @@ Format a string: <br>
 greeting = ("Hello, {}").format(name)
 print(greeting)
 ```
-<br>
-Use a ```while``` loop:
-```
-index = 0
-while index < 100:
-    print("hello")
-    index += 1
-```
 
-### Write in Python files
+### Create Python files
+#### Loops
 Open ```main.py``` <br><br>
-Run ```main.py``` in command line: <br>
-  ```python main.py```
+Run ```main.py``` in command line:  ```python main.py```
 <br><br>
 Task 1: Write a method that prints all even numbers from 0 to 100.<br>
 Task 2: Write a method that prints all odd numbers from 0 to 100.<br>
 Task 3: Write a method that prints 10 random numbers.<br>
-<br><br>
-
-Open ```conditions.py```<br><br>
+<br>
+#### Conditionals
+Open ```conditions.py```<br>
 Task: Write a method that quizzes a user about leap year.
 
 ### Build a Text Adventure game
